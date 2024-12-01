@@ -1,5 +1,1 @@
-First commit A
-Second commit B
-Third commit C
-Fourth commit D
-Commit G on main branch
+Commit A
