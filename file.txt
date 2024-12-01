@@ -3,3 +3,4 @@ Second commit B
 Third commit C
 Fourth commit D
 Commit E on cool-new-feature branch
+Commit F on cool-new-feature branch
