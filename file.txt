@@ -1,7 +1,8 @@
-A
-B
-C
-D
-E
-F
-G
+
+First commit A
+Second commit B
+Third commit C
+Fourth commit D
+Commit E on cool-new-feature branch
+Commit F on cool-new-feature branch
+>>>>>>> cool-new-feature
